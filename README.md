@@ -55,7 +55,7 @@ This project demonstrates how raw e-commerce data can be transformed into action
 Author Information
 
 Vignesh 
-📊 Aspiring Data Analyst
-📧 Email: vigneshsai106@gmail.com
-🎓 Batch: DA-ANB11
-📅 Submission Date: May 01, 2026
+* Aspiring Data Analyst
+* Email: vigneshsai106@gmail.com
+* Batch: DA-ANB11
+* Submission Date: May 01, 2026
